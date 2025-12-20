@@ -55,10 +55,7 @@ export default function Projects() {
 
         {/* Projects Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-          {/* সমাধান: AnimatePresence কে loop এর বাইরে না রেখে, 
-              AnimatePresence এর ভেতরে সরাসরি map ব্যবহার করা হয়েছে 
-              এবং mode="popLayout" দেওয়া হয়েছে।
-          */}
+          
           <AnimatePresence mode="popLayout">
             {currentProjects.map((project) => (
               <motion.div
