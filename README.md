@@ -2,7 +2,7 @@
 
 A high-performance, visually stunning portfolio website built with **React.js**, **Tailwind CSS**, and **Framer Motion**. Featuring a premium dark-mode UI, smooth scroll animations, and a fully responsive layout.
 
-![Portfolio Preview](https://raw.githubusercontent.com/hashemm621/my-portfolio/main/src/assets/banner.png)
+![Portfolio Preview](https://raw.githubusercontent.com/hashemm621/my-portfolio/master/src/assets/banner.png)
 
 ## ✨ Features
 
