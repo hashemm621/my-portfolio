@@ -1,56 +1,76 @@
 [
   {
     "id": 1,
-    "title": "Skill Swap",
-    "description": "Skill Swap with modern UI and seamless knowledge exchange.",
-    "image": "https://i.ibb.co.com/VcFtQtSQ/Screenshot-2025-12-05-175422.png",
-    "techStack": ["React", "TailwindCSS", "JavaScript"],
-    "demoLink": "https://skill-swap-1.netlify.app/",
-    "codeLink": "https://github.com/a-h-arman-hussain/skill-swap"
+    "title": "AssetVerse",
+    "description": "AssetVerse is a full‑stack Asset Management System designed for organizations to manage company assets, employees, and subscription‑based packages efficiently. The system supports HR and Employee roles with secure authentication, asset assignment, request workflows, and Stripe‑powered payments.",
+    "image": "https://i.ibb.co.com/Y5N7nV8/Screenshot-2025-12-21-013234.png",
+    "techStack": [
+      "React",
+      "TailwindCSS",
+      "JavaScript",
+      "Node.Js,MongoDB,Firebase"
+    ],
+    "demoLink": "https://profound-dragon-cef170.netlify.app/",
+    "codeLink": "https://github.com/hashemm621/AssetVerse-Client"
   },
   {
     "id": 2,
-    "title": "Edu Learn",
-    "description": "Edu Learn with clean UI, responsive design, and easy progress tracking.",
-    "image": "https://i.ibb.co.com/4wL3mjc1/Screenshot-2025-12-05-175950.png",
-    "techStack": ["React", "Firebase", "TailwindCSS"],
-    "demoLink": "https://online-learning-platform-1.netlify.app/",
-    "codeLink": "https://github.com/a-h-arman-hussain/edu-learn-client"
-  },
-  {
-    "id": 33,
-    "title": "Skills Dev Platform",
-    "description": "A modern platform providing awesome courses for your learning journey.",
-    "image": "https://i.ibb.co.com/ycdPj70r/Screenshot-2025-12-05-180911.png",
-    "techStack": ["Next.js", "MongoDB", "TailwindCSS"],
-    "demoLink": "https://skills-dev-platform.vercel.app/",
-    "codeLink": "https://github.com/a-h-arman-hussain/skills-dev-platform"
+    "title": "Green Nest",
+    "description": "GreenNest is a modern and responsive frontend platform designed to help users browse a beautifully curated collection of plants.",
+    "image": "https://i.ibb.co.com/KcP5M0GS/Screenshot-2025-12-21-013629.png",
+    "techStack": ["React", "Firebase", "TailwindCSS", "JavaScript"],
+    "demoLink": "https://inspiring-pasca-52f3cc.netlify.app/",
+    "codeLink": "https://github.com/hashemm621/green-nest"
   },
   {
     "id": 3,
-    "title": "Skills Dev Platform",
-    "description": "A modern platform providing awesome courses for your learning journey.",
-    "image": "https://i.ibb.co.com/ycdPj70r/Screenshot-2025-12-05-180911.png",
-    "techStack": ["Next.js", "MongoDB", "TailwindCSS"],
-    "demoLink": "https://skills-dev-platform.vercel.app/",
-    "codeLink": "https://github.com/a-h-arman-hussain/skills-dev-platform"
-  },
-  {
-    "id": 34,
-    "title": "Skills Dev Platform",
-    "description": "A modern platform providing awesome courses for your learning journey.",
-    "image": "https://i.ibb.co.com/ycdPj70r/Screenshot-2025-12-05-180911.png",
-    "techStack": ["Next.js", "MongoDB", "TailwindCSS"],
-    "demoLink": "https://skills-dev-platform.vercel.app/",
-    "codeLink": "https://github.com/a-h-arman-hussain/skills-dev-platform"
+    "title": "CarEase",
+    "description": "CarEase is a modern, full-stack vehicle rental platform designed to connect renters with vehicle owners seamlessly. It provides a secure environment for browsing a diverse range of vehicles, managing bookings, and handling vehicle listings with secure Firebase authentication.",
+    "image": "https://i.ibb.co.com/fTNZZ8Z/Screenshot-2025-12-21-014154.png",
+    "techStack": [
+      "JavaScript",
+      "Firebase",
+      "Node.Js",
+      "MongoDB",
+      "TailwindCSS"
+    ],
+    "demoLink": "https://tiny-crisp-f50371.netlify.app/",
+    "codeLink": "https://github.com/hashemm621/carEase_client"
   },
   {
     "id": 4,
-    "title": "Task Manager App",
-    "description": "A task management app to track daily tasks with drag-and-drop interface built using React and Redux.",
-    "image": "data:image/jpeg;base64,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",
+    "title": "English Janala",
+    "description": "A high-performance English-to-Bengali dictionary app developed using React.js and Vite. Leveraging a optimized JSON-based data structure for instant lookups, the app integrates Tailwind CSS for styling and Framer Motion for a dynamic user experience. Optimized for SEO and accessibility",
+    "image": "https://i.ibb.co.com/rRrW26FY/Screenshot-2025-12-21-021201.png",
+    "techStack": ["JavaScript", "Firebase", "TailwindCSS"],
+    "demoLink": "https://hashemm621.github.io/English-Janala-App/",
+    "codeLink": "https://github.com/hashemm621/English-Janala-App"
+  },
+  {
+    "id": 5,
+    "title": "App Nest",
+    "description": "This project, 'App Nest' is a modern, responsive web application designed for data management and visualization.",
+    "image": "https://i.ibb.co.com/0R8LSBqt/Screenshot-2025-12-21-014821.png",
+    "techStack": ["React", "TailwindCSS", "JavaScript", "Node.Js", "Firebase"],
+    "demoLink": "https://gregarious-mermaid-2690c1.netlify.app/",
+    "codeLink": "https://github.com/hashemm621/app-nest"
+  },
+  {
+    "id": 6,
+    "title": "3D Models Hub",
+    "description": "A modern platform providing awesome 3D Models  for your learning journey.",
+    "image": "https://i.ibb.co.com/gLrzcZYM/Screenshot-2025-12-21-015542.png",
+    "techStack": ["Next.js", "Node.Js", "Firebase", "MongoDB", "TailwindCSS"],
+    "demoLink": "https://sage-moxie-bf4865.netlify.app/",
+    "codeLink": "https://github.com/hashemm621/3d-Models-Hub-Client"
+  },
+  {
+    "id": 7,
+    "title": "Winning 11",
+    "description": "This is a Cricket management app",
+    "image": "https://i.ibb.co.com/1fyGX4By/Screenshot-2025-12-21-020019.png",
     "techStack": ["React", "Redux", "TailwindCSS"],
-    "demoLink": "https://your-taskmanager-demo.com",
+    "demoLink": "https://symphonious-sawine-d56ab0.netlify.app/",
     "codeLink": "https://github.com/yourusername/task-manager"
   }
 ]
