@@ -140,7 +140,7 @@ export default function HeroSection() {
               <FaArrowRight className="group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-              href="https://drive.google.com/file/d/1Coitb1DT-PVgL-WRra9zUxLsWiAi1RhY/view?usp=sharing"
+              href="https://drive.google.com/file/d/16jwl43fQK_Kad2CU4_OSpWAMYwS2pWMd/view?usp=sharing"
               className="px-8 py-4 bg-gray-900 border border-gray-800 text-gray-300 font-bold rounded-xl hover:bg-gray-800 transition-all">
               Download CV
             </a>
